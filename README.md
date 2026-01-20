@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🌱 I’m currently learning **OpenCV and image processing**
-
-- 💬 Ask me about **react, python, openCV, scikit-learn, express, spring boot**
-
 - 📫 How to reach me **okhravim0098@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mahdi_okh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahdi_okh" height="30" width="40" /></a>
 <a href="https://discord.gg/Mahdi Okhravi#9064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mahdi Okhravi#9064" height="30" width="40" /></a>
 </p>
 
